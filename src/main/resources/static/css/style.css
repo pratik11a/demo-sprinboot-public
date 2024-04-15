@@ -1,0 +1,32 @@
+margin-class {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 20%;
+    margin-left: 2%;
+    background:gray;
+}
+
+.header {
+    margin:auto;
+    background: green;
+    font-family: serif;
+    font-size: xxx-large;
+    color: tan;
+}
+
+.item-name {
+   width: 50%;
+}
+.item-price {
+    width: 50%;
+}
+
+.menu {
+    width: 100%;
+    background: beige;
+    font-size: x-large;
+    color: blue;
+}
+.menu-input {
+    width: 100%;
+}
